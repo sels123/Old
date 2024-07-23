@@ -1,0 +1,23 @@
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Supreme', function(script)
+    assert(loadstring(script))()
+end)
+
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Senzu', function(script)
+    assert(loadstring(script))()
+end)
+
+HTTP.get('https://raw.githubusercontent.com/Sels456/experimento/main/Mover%20War', function(script)
+    assert(loadstring(script))()
+end)
+
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Recoger%20del%20piso', function(script)
+    assert(loadstring(script))()
+end)
+
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Herramientas', function(script)
+    assert(loadstring(script))()
+end)
+
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Friend', function(script)
+    assert(loadstring(script))()
+end)
