@@ -17,3 +17,7 @@ end)
 HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Herramientas', function(script)
     assert(loadstring(script))()
 end)
+
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Friend', function(script)
+    assert(loadstring(script))()
+end)
